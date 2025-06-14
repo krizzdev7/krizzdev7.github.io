@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Devu | Portfolio</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <header>
+    <h1>Devu Krishna</h1>
+    <nav>
+      <a href="#about">About</a>
+      <a href="#skills">Skills</a>
+      <a href="#hobbies">Hobbies</a>
+      <a href="#quote">Quote</a>
+      <a href="#contact">Contact</a>
+    </nav>
+  </header>
+
+  <section class="hero">
+    <h2>Hi, I'm Devu 👋</h2>
+    <p>A passionate CSE student, tech explorer, and future innovator 💻✨</p>
+  </section>
+
+  <section id="about">
+  <div class="box">
+    <h2>About Me</h2>
+    <p>I'm Devu Krishna, a Computer Science and Engineering student at the College of Engineering Kallooppara. I love creating tech-based solutions, exploring AI and building things that help others. I believe technology and kindness can change the world.</p>
+  </section>
+
+  <section id="skills">
+  <div class="box">
+    <h2>My Skills</h2>
+    <ul>
+      <li>C Programming – Basics, loops, conditions</li>
+      <li>HTML & CSS – Building beautiful websites</li>
+      <li>SQL- Basics of database creation, queries, filtering, and joins</li>
+      <li>Python – familiar with various libraries, Confident with syntax, logic building, dictionaries, and functions</li>
+      <li>problem solving and debugging</li>
+    </ul>
+  </section>
+
+  <section id="hobbies">
+  <div class="box">
+    <h2>Hobbies & Interests</h2>
+    <ul>
+      <li>🖌️ Drawing & Creativity</li>
+      <li>🎧 Listening to music</li>
+      <li>📱 Watching tech & coding YouTube videos</li>
+      <li>🌌 Stargazing </li>
+      <li>💻 experimentation</li>
+    </ul>
+  </section>
+
+  <section id="quote">
+  <div class="box">
+    <h2>My Favorite Quote</h2>
+    <blockquote>
+      “Don't wish for it. Work for it.”  
+    </blockquote>
+  </section>
+
+ <section id="contact">
+  <div class="box contact-box">
+    <h2>Contact Me</h2>
+    <div class="contact-buttons">
+      <a href="mailto:dev777kris@gmail.com" class="contact-btn">Email Me</a>
+      <a href="https://github.com/krizzdev7" class="contact-btn" target="_blank">GitHub</a>
+      <a href="https://linkedin.com/in/devu-krishna-27ab98324" class="contact-btn" target="_blank">LinkedIn</a>
+    </div>
+  </div>
+</section>
+
+
+  <footer>
+    <p>© 2025 Devu Krishna. Made with 💜 and caffeine.</p>
+  </footer>
+
+</body>
+</html>
+
